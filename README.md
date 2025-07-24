@@ -1,6 +1,6 @@
 # Nikola-Tesla-Chatbot
 
-Este projeto consiste em um Chatbot interativo desenvolvido para responder perguntas sobre a vida e as invenções de Nikola Tesla. 
+Este projeto consiste em um Chatbot interativo desenvolvido para responder perguntas sobre a vida e as invenções de Nikola Tesla. Ele foi desenvolvido a fim de praticar conceitos de IA como RAG (Retrieval Augmented Generation), embeddings de texto e a integração de LLMs locais com bases de conhecimento externas. 
 
 ## 🛠️ Construído com
 * LangChain, Ollama, HuggingFace Embeddings, ChromaDB e Retrieval Augmented Generation (RAG).
